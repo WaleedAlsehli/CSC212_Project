@@ -28,7 +28,9 @@ public class Album {
 	}
 	
 	 public int getNbComps() {
-		 //complete  this methode
+int comp = 0;
+
+
 	 }
 	
 	
